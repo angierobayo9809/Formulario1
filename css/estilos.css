@@ -1,0 +1,56 @@
+*{
+    width: 80%;
+}
+
+h1{
+    text-align: center;
+}
+
+.element-form{
+    width: 100%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.dinamico{
+    width: 100%;
+    margin: 20px;
+}
+
+.label{
+    width: 20%;
+    float: left;
+    font-size: 18px;
+}
+
+.element-form input{
+    width: 50%;
+    height: 30px;
+    font-size: 17px;
+}
+
+.element-form button{
+    width: 100px;
+}
+
+.tituloDinamico{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px black solid;
+}
+
+.rowDinamico{
+    float: left;
+    width: 80%;
+    padding: 10px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.rowDelete{
+    width: 5%;
+    float: right;
+    vertical-align: middle;
+    margin-top: 5px;
+    text-align: center;
+}
